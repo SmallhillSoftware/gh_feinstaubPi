@@ -1,0 +1,7 @@
+*.*~
+*.git.bak
+*.od*
+single_events*.txt
+pm_hourly_avg*.txt
+__pycache__
+*.pyc
